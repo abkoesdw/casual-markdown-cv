@@ -1,10 +1,8 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  ariefbarkah@gmail.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
 </span>
 
-# Casualwriter  
+# AI Scientist  
 
 ## Executive Summary
 
@@ -15,7 +13,7 @@
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Amazon (Applied Scientist II, 2023/07 - present) 
 
 * Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
 * Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
